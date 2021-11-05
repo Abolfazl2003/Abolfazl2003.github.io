@@ -10,6 +10,3 @@ comments: true
 ### Hamclassi
 * [ali Sheikh attar](https://alisheikhattar.github.io)
 * [nima naderi](https://nimanr4.github.io)
-
-
-
