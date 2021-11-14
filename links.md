@@ -10,6 +10,6 @@ comments: false
 
 ### Links
 * [Mark manson](https://markmanson.net/)
-* [My name](https://www.imdb.com/title/tt12940504/)
-* [Typing](https://www.ratatype.com/learn/)
-* [Music](https://soundcloud.com/youngthugworld/the-london)
+* [My name ](https://www.imdb.com/title/tt12940504/)
+* [About Typing](https://www.ratatype.com/learn/)
+* [Rap Music](https://soundcloud.com/youngthugworld/the-london)
